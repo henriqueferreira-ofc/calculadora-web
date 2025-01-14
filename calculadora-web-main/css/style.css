@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+    background-color: #00135b;
+}
+
+.barra-logo{
+    background-color: #00d697;
+}
+ h1{
+    font-size: 30px;
+    display: inline-block;
+    position: absolute;
+    justify-content: center;
+    margin-left: 155px;
+    font-family: 'Secular One', sans-serif;
+    font-weight: 650;
+    color: rgb(255, 255, 255);
+    
+ }
+.logo img{
+   max-width: 50px;
+   margin-left: 80px;
+   padding: 10px;
+  
+}
+
+.calculadora{
+    position: absolute;
+    background-color: rgba(0,0,0,0.9);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 15px;
+    padding: 30px;
+    margin-top: 40px;
+ 
+}
+
+.botao{
+    width: 50px;
+    background-color: #65648b;
+    height: 50px;
+    font-size: 25px;
+    color: white;
+    font-family: sans-serif;
+    cursor: pointer;
+    border: none;
+    margin: 3px;
+}
+
+.botaodiferente{
+    width: 50px;
+    background-color: #41405a;
+    height: 50px;
+    font-size: 25px;
+    color: white;
+    font-family: sans-serif;
+    cursor: pointer;
+    border: none;
+    margin: 3px;
+}
+
+.botao:hover{
+    background-color: #41405a;
+}
+
+.botaodiferente:hover{
+    background-color: #313044;
+}
+
+#resultado{
+    background-color: white;
+    width: 208px;
+    height: 30px;
+    margin: 10px;
+    font-size: 25px;
+    font-family: sans-serif;
+    text-align: right;
+    padding: 10px;
+    align-items: center;
+
+}
+
