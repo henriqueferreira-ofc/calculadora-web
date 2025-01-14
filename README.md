@@ -28,5 +28,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Projeto Dev foi feito em um curso em um desenvolvimento meu e aumentou meu desenpenho positivamente em 100%.
+A Calculadora-web foi desenvolvida apartir de uma iniciativa minha para suprir a necessidade de um amigo meu, esse desenvolvimento aumentou meu desenpenho positivamente em 100%.
 
