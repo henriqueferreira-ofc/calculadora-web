@@ -18,7 +18,7 @@ Meu Projeto desenvolvido em uma operação de necessidade. <br/>
 
 <br>
 
-![ProjetoDev](https://github.com/henriquearaujooficial/ProjetoDev/blob/main/assets/.github/Telaprincipal.png)
+![ProjetoDev](https://github.com/henriqueferreira-ofc/calculadora-web/blob/main/Calculadora.jpg)
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
