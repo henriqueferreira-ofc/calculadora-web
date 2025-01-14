@@ -2,7 +2,7 @@
 
 <p align="center">
 Meu Projeto desenvolvido em uma operação de necessidade. <br/>
-<a href="https://github.com/henriquearaujooficial/ProjetoDev">Veja meu Projeto Clicando aqui</a>
+<a href="https://henriqueferreira-ofc.github.io/calculadora-web/">Veja meu Projeto Clicando aqui</a>
 </p>
 
 <p align="center">
@@ -26,12 +26,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
-- Figma
 
 ## 💻 Projeto
 
-O Projeto Dev foi feito em um curso da Rocketseat e aumentou meu desenpenho positivamente em 100%.
+O Projeto Dev foi feito em um curso em um desenvolvimento meu e aumentou meu desenpenho positivamente em 100%.
 
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/ugxcVLR8uDnySuq0uPze4y/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?t=ZZvB2irPs4CPmNRz-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
